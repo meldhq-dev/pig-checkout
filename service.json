@@ -1,0 +1,12 @@
+{
+  "service": "pig-checkout",
+  "team": "commerce",
+  "environment": "sandbox",
+  "region": "us-east-2",
+  "runtime": {
+    "provider": "aws",
+    "cluster": "pig-sandbox",
+    "service": "pig-checkout"
+  },
+  "declared_dependencies": []
+}
